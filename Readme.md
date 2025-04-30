@@ -82,7 +82,7 @@ The trained **Random Forest Classifier** showed excellent performance in predict
 | **High**   | 0.98      | 0.98   | 0.98     |
 
 ### 🔍 Confusion Matrix
-![Confusion Matrix](./correlation_heatmap.png)
+![Confusion Matrix](./confusion_matrix.png)
 
 These results indicate that the model:
 - Accurately identifies **high-risk** individuals (critical for healthcare)
